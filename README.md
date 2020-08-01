@@ -2,6 +2,7 @@
 
 ### My Blender Projects
 
-- Donuts (In Progress)
+- Donuts
 - Hallway
 - Triangle
+- Chair
